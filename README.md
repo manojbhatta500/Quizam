@@ -1,3 +1,4 @@
+this app is a quiz app which is built on flutter (dart).
 The Quizam is a simple and interactive application that allows users to participate in a quiz where they are presented with statements and they have to determine whether the statement is true or false. The app keeps track of both correct and incorrect answers and provides the functionality to refresh the quiz for a new set of questions.
 
 Features
